@@ -1,0 +1,19 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.table{
+	background: linear-gradient(to right, #2ecc71, #12CBC4) ;
+
+}
+td{
+	margin: 0;
+	width: 200px;
+	height: 50px;
+	padding: 0px 5px;
+	border: 1px solid silver;
+	color: white;
+}
+.header{
+	text-align: center;
+}
